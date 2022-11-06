@@ -60,6 +60,7 @@ Python 2.3 (59 encodings)
  'utf_16_le',
  'utf_7',
  'utf_8']
+
 Python 2.4 (85 encodings)
 ['ascii',
  'big5',
@@ -146,6 +147,7 @@ Python 2.4 (85 encodings)
  'utf_16_le',
  'utf_7',
  'utf_8']
+
 Python 2.5 (86 encodings)
 ['ascii',
  'big5',
@@ -233,6 +235,7 @@ Python 2.5 (86 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 2.6 (90 encodings)
 ['ascii',
  'big5',
@@ -324,6 +327,7 @@ Python 2.6 (90 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 2.7 (93 encodings)
 ['ascii',
  'big5',
@@ -418,6 +422,7 @@ Python 2.7 (93 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.0 (89 encodings)
 ['ascii',
  'big5',
@@ -508,6 +513,7 @@ Python 3.0 (89 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.1 (90 encodings)
 ['ascii',
  'big5',
@@ -599,6 +605,7 @@ Python 3.1 (90 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.2 (92 encodings)
 ['ascii',
  'big5',
@@ -692,6 +699,7 @@ Python 3.2 (92 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.3 (93 encodings)
 ['ascii',
  'big5',
@@ -786,6 +794,7 @@ Python 3.3 (93 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.4 (96 encodings)
 ['ascii',
  'big5',
@@ -883,6 +892,7 @@ Python 3.4 (96 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.5 (98 encodings)
 ['ascii',
  'big5',
@@ -982,6 +992,7 @@ Python 3.5 (98 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.6 (98 encodings)
 Same as previous version.
 
@@ -1086,6 +1097,7 @@ Python 3.8 (97 encodings)
  'utf_7',
  'utf_8',
  'utf_8_sig']
+
 Python 3.9 (97 encodings)
 Same as previous version.
 
