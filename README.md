@@ -1,6 +1,8 @@
 # python-encoders
 
-Python 2.3 (59 encodings)
+Python 2.3 
+(59 encodings)
+
 ['ascii',
  'cp037',
  'cp424',
