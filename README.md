@@ -64,7 +64,9 @@ Python 2.3
  'utf_7',
  'utf_8']
 
-Python 2.4 (85 encodings)
+Python 2.4 
+(85 encodings)
+
 ['ascii',
  'big5',
  'big5hkscs',
