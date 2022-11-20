@@ -332,7 +332,8 @@ Python 2.6 - 90 encodings
  'utf_8',
  'utf_8_sig']
 
-Python 2.7 (93 encodings)
+Python 2.7 - 93 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -427,7 +428,8 @@ Python 2.7 (93 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.0 (89 encodings)
+Python 3.0 - 89 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -518,7 +520,8 @@ Python 3.0 (89 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.1 (90 encodings)
+Python 3.1 - 90 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -610,7 +613,8 @@ Python 3.1 (90 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.2 (92 encodings)
+Python 3.2 - 92 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -704,7 +708,8 @@ Python 3.2 (92 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.3 (93 encodings)
+Python 3.3 - 93 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -799,7 +804,8 @@ Python 3.3 (93 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.4 (96 encodings)
+Python 3.4  - 96 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -897,7 +903,8 @@ Python 3.4 (96 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.5 (98 encodings)
+Python 3.5 - 98 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -997,13 +1004,14 @@ Python 3.5 (98 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.6 (98 encodings)
+Python 3.6 - 98 encodings
 Same as previous version.
 
-Python 3.7 (98 encodings)
+Python 3.7 - 98 encodings
 Same as previous version.
 
-Python 3.8 (97 encodings)
+Python 3.8 - 97 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -1102,13 +1110,13 @@ Python 3.8 (97 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 3.9 (97 encodings)
+Python 3.9 - 97 encodings
 Same as previous version.
 
-Python 3.10 (97 encodings)
+Python 3.10 - 97 encodings
 Same as previous version.
 
-Python 3.11 (97 encodings)
+Python 3.11 - 97 encodings
 Same as previous version.
 
 In case they're relevant to anyone's use case, note that the docs also list some Python-specific encodings, many of which seem to be primarily for use by Python's internals or are otherwise weird in some way, like the 'undefined' encoding which always throws an exception if you try to use it. You probably want to ignore these completely if, like the question-asker here, you're trying to figure out what encoding was used for some text you've come across in the real world. As of Python 3.7, the list is as follows:
