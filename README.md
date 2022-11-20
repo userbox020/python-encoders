@@ -1,8 +1,6 @@
 # python-encoders
 
-Python 2.3 
-
-(59 encodings)
+Python 2.3 - 59 encodings
 
 ['ascii',
  'cp037',
@@ -64,8 +62,7 @@ Python 2.3
  'utf_7',
  'utf_8']
 
-Python 2.4 
-(85 encodings)
+Python 2.4 - 85 encodings
 
 ['ascii',
  'big5',
@@ -153,7 +150,8 @@ Python 2.4
  'utf_7',
  'utf_8']
 
-Python 2.5 (86 encodings)
+Python 2.5 - 86 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
@@ -241,7 +239,8 @@ Python 2.5 (86 encodings)
  'utf_8',
  'utf_8_sig']
 
-Python 2.6 (90 encodings)
+Python 2.6 - 90 encodings
+
 ['ascii',
  'big5',
  'big5hkscs',
